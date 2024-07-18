@@ -1,6 +1,6 @@
 my_string = input('введите ваше имя: ')
-if my_string .count(','):
- print('Количество знаков:', my_string .count(','))
+if my_string .count(''):
+ print('Количество знаков:', my_string .count(''))
 else:
  print('Символов не найдено')
 print(my_string.upper())
